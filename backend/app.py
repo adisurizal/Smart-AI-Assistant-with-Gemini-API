@@ -44,6 +44,8 @@ def chat():
         })
 
     except Exception as e:
+        print("ERROR:", e)
+        
         return jsonify({
             "error": str(e)
         }), 500
