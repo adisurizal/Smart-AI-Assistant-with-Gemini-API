@@ -58,16 +58,17 @@ Smart-AI-Assistant-with-Gemini-API/
 │
 ├── backend/
 │   ├── app.py
-│   ├── requirements.txt
-│   ├── .env.example
-│   └── .gitignore
+│   └── requirements.txt
+│
+├── docs/
+│   └── smart-ai-assistant.png
 │
 ├── frontend/
-│   ├── src/
 │   ├── public/
-│   ├── package.json
-│   └── .gitignore
+│   ├── src/
+│   └── package.json
 │
+├── .gitignore
 └── README.md
 ```
 
@@ -206,7 +207,7 @@ Tambahkan screenshot aplikasi di sini.
 Example:
 
 ```markdown
-![Screenshot](/backend/doc/smart-ai-assistant.png)
+![Smart AI Assistant Screenshot](./docs/smart-ai-assistant.png)
 ```
 
 ---
