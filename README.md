@@ -202,13 +202,9 @@ Response:
 
 # Screenshot
 
-Tambahkan screenshot aplikasi di sini.
+## Smart AI Assistant UI
 
-Example:
-
-```markdown
 ![Smart AI Assistant Screenshot](./docs/smart-ai-assistant.png)
-```
 
 ---
 
